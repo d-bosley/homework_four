@@ -1,0 +1,18 @@
+{
+  "name": "homework_four",
+  "version": "1.0.0",
+  "description": "adaptive page assignment",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass scss/styles.scss css/styles.css -w"
+  },
+  "author": "dexter bosley",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
